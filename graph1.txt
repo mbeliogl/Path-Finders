@@ -1,0 +1,14 @@
+3 9
+Everest
+Baldy
+Helen
+Sierras
+0 1 3.2 Ski
+0 2 5.5 Hike
+0 3 2.7 SnowBoard
+1 1 5.5 MountainBike
+1 3 2.9 ChairLift
+1 0 1.3 Lodge
+1 3 4.4 Poles
+2 2 2.2 Goggles
+2 4 4.1 Helmet
